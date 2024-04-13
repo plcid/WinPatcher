@@ -3,6 +3,8 @@ Simple &amp; Effective Windows 11 Customization Tool
 
 # Disclaimer
 
+By using WinPatcher ("the Tool"), you acknowledge and agree to the following:
+
 * **No Responsibility**: The creators of the Tool take no responsibility for any irreversible effects that may occur as a result of using the Tool. This includes but is not limited to system instability, data loss, or damage to your device.
     
 * **Use at Your Own Risk**: You understand that using the Tool involves making changes to your system settings and configurations, which may have unintended consequences. You agree to use the Tool at your own risk, and you accept full responsibility for any outcomes that may arise.
